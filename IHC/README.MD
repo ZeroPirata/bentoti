@@ -1,7 +1,7 @@
 
 
 # Acertos
-## 3.3.6 - Understandable / Assistencia de Inputs/Entradas / Prevenção de erros
+## 3.3.6 - Compreensível / Assistencia de Inputs/Entradas / Prevenção de erros
 
 
 Um bom exemplo da heurística de prevenção de erros é a aba de pesquisa do DuckDuckGo, ao dar sugestões para completar a pesquisa, o site previne possíveis erros que o usuário pode cometer, mesmo utilizando outra lingua como pesquisa
