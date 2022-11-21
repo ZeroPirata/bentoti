@@ -1,12 +1,19 @@
 
 
 # Acertos
-## 5 - Prevenção de Erros
+## 3.3.6 - Understandable / Assistencia de Inputs/Entradas / Prevenção de erros
 
 ```
 Um bom exemplo da heurística de prevenção de erros é a aba de pesquisa do DuckDuckGo, ao dar sugestões para completar a pesquisa, o site previne possíveis erros que o usuário pode cometer, mesmo utilizando outra lingua como pesquisa
 ```
 <img src="img/googlePesquisa.png">
+
+## 2.4.6 Operavel / Navegabilidade / Titulos e rotulos
+```
+Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegavel o seu intuito do que ela quer passar para o usuario, e o titulo é o responsavel por demontrar isso muito bem, aplicações que utilizam isso acabam deixando mais claro o quer passar de forma curta e objetiva. Como mostrado no I❤PDF, ele mostra o objetivo da aba de forma simples atráves do titulo e no rotulo passa o que tem que fazer de forma clara e objetiva
+```
+
+<img src="img/ILovePDF.png">
 
 # Erros
 
