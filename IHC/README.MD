@@ -39,3 +39,7 @@ Por ser um site já de fundo branco, os textos serem quase da mesma tonalidade d
 
 ### WCAG Contrast checker
 <img src="img/TrabalhosFeitosContrastChecker.png">
+
+![image](https://user-images.githubusercontent.com/88253613/205272740-aedca8a0-3c77-4413-91cf-5fc79d405181.png)
+Outro erro de contraste é relacionado ao site da EBay, onde ele aparenta um contraste ruim para divulgar algum item de valor, assim como sua organização do botão e esquema de cores não colaboram muito
+
