@@ -19,6 +19,8 @@ Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegav
 
 ![image](https://user-images.githubusercontent.com/88253613/205273786-3e47b6cd-ebf7-4efc-a659-c59f923ed17f.png)
 
+O site, mesmo que eu esteja no dominio original que é ingles, ele adapta para o idioma que estamos usando
+
 # Erros
 
 ## 3.1.5 - Compreensivel / Legivel / Nível de leitura
@@ -27,8 +29,6 @@ Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegav
 Por ser um site cheio de informações sobre euristicas, os itens tendem a ficar juntos na maioria das vezes, fazendo assim você voltar para o inicio do texto/topico para relembrar onde está
 
 <img src="img/w3cheuristicas.png">
-
-O site, mesmo que eu esteja no dominio original que é ingles, ele adapta para o idioma que estamos usando
 
 
 ## 1.1.1 Percepitivel / Texto Alternativo / Texto sem contexto
