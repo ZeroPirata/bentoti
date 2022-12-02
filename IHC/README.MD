@@ -28,9 +28,10 @@ Por ser um site cheio de informações sobre euristicas, os itens tendem a ficar
 
 <img src="img/w3cheuristicas.png">
 
-## 1.1.1 Percepitivel / Texto Alternativo / Texto sem contexto
-
 O site, mesmo que eu esteja no dominio original que é ingles, ele adapta para o idioma que estamos usando
+
+
+## 1.1.1 Percepitivel / Texto Alternativo / Texto sem contexto
 
 
 Para o usuario que entrar no site, ele provavelmente irá sair imediatamente, pois não tem como descobrir o que está passando dentro do propio website, além das coisas não carregarem os texto não estão nem legiveis para ter um contexto do mesmo.
