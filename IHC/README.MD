@@ -15,6 +15,10 @@ Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegav
 
 <img src="img/ILovePDF.png">
 
+## 3.1.1 Compreensível / Legivel / Linguagem da pagina
+
+![image](https://user-images.githubusercontent.com/88253613/205273786-3e47b6cd-ebf7-4efc-a659-c59f923ed17f.png)
+
 # Erros
 
 ## 3.1.5 - Compreensivel / Legivel / Nível de leitura
@@ -25,6 +29,8 @@ Por ser um site cheio de informações sobre euristicas, os itens tendem a ficar
 <img src="img/w3cheuristicas.png">
 
 ## 1.1.1 Percepitivel / Texto Alternativo / Texto sem contexto
+
+O site, mesmo que eu esteja no dominio original que é ingles, ele adapta para o idioma que estamos usando
 
 
 Para o usuario que entrar no site, ele provavelmente irá sair imediatamente, pois não tem como descobrir o que está passando dentro do propio website, além das coisas não carregarem os texto não estão nem legiveis para ter um contexto do mesmo.
