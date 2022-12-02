@@ -21,6 +21,16 @@ Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegav
 
 O site, mesmo que eu esteja no dominio original que é ingles, ele adapta para o idioma que estamos usando
 
+
+## 2.1.1 Operavel / Teclado / Acesso de atalho pelo teclado
+
+O GitHub e o VSCode, por serem bastante utulizados por pessoas da área de tecnologia, ele possibilita muito a navegabilidade das paginas pelo teclado, colocando gatilhos para coisas especificas, como o "/" no git que faz a gente pesquisar no git sem precisar clicar no input de busca, e o "CTRL+B" no VSCode onde ele maximiza e minimiza a aba do projeto lateral
+
+![image](https://user-images.githubusercontent.com/88253613/205275514-d9368054-dd67-41bb-a010-8794654823c0.png)
+![image](https://user-images.githubusercontent.com/88253613/205275743-2c419d52-8f29-4d4b-b437-885fcb14ee64.png)
+
+
+
 # Erros
 
 ## 3.1.5 - Compreensivel / Legivel / Nível de leitura
@@ -40,13 +50,14 @@ Para o usuario que entrar no site, ele provavelmente irá sair imediatamente, po
 
 ## 1.4.3 Percepitivel / Distinguíveis / Contraste
 
-Por ser um site já de fundo branco, os textos serem quase da mesma tonalidade do fundo acaba fazendo o usuario forçar para tentar compreender o que está escrito dentro das caixas de informação 
+Por ser um site já de fundo branco, os textos serem quase da mesma tonalidade do fundo acaba fazendo o usuario forçar para tentar compreender o que está escrito dentro das caixas de informação.
+Outro erro de contraste é relacionado ao site da EBay, onde ele aparenta um contraste ruim para divulgar algum item de valor, assim como sua organização do botão e esquema de cores não colaboram muito
 
 <img src="img/TrabalhosFeitos.png">
+
+![image](https://user-images.githubusercontent.com/88253613/205272740-aedca8a0-3c77-4413-91cf-5fc79d405181.png)
 
 ### WCAG Contrast checker
 <img src="img/TrabalhosFeitosContrastChecker.png">
 
-![image](https://user-images.githubusercontent.com/88253613/205272740-aedca8a0-3c77-4413-91cf-5fc79d405181.png)
-Outro erro de contraste é relacionado ao site da EBay, onde ele aparenta um contraste ruim para divulgar algum item de valor, assim como sua organização do botão e esquema de cores não colaboram muito
 
